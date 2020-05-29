@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce17a917-8931-485c-a181-593e58548d0a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datas/birlestirilmisVeriler.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Datas/birlestirilmisVeriler.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datas/yeraltisulari.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Datas/yeraltisulari.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WorkSpace/DepremTahminSistemi.py" beforeDir="false" afterPath="$PROJECT_DIR$/WorkSpace/DepremTahminSistemi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WorkSpace/SistemTesti.py" beforeDir="false" afterPath="$PROJECT_DIR$/WorkSpace/SistemTesti.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WorkSpace/data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WorkSpace/kmeans.py" beforeDir="false" afterPath="$PROJECT_DIR$/WorkSpace/kmeans.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WorkSpace/veri.csv" beforeDir="false" afterPath="$PROJECT_DIR$/WorkSpace/veri.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WorkSpace/ysa.py" beforeDir="false" afterPath="$PROJECT_DIR$/WorkSpace/ysa.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1V74h1VonzmtEkjCE5v2O0R129U" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Datas" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.SistemTesti">
+    <configuration name="DepremTahminSistemi" type="PythonConfigurationType" factoryName="Python">
+      <module name="EarthquakeEstimator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WorkSpace" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WorkSpace/DepremTahminSistemi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SistemTesti" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="EarthquakeEstimator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WorkSpace" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WorkSpace/SistemTesti.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="confisuon_matris" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="EarthquakeEstimator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WorkSpace" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WorkSpace/confisuon_matris.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="decision_tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="EarthquakeEstimator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WorkSpace" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WorkSpace/decision_tree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="kmeans" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="EarthquakeEstimator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WorkSpace" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WorkSpace/kmeans.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ysa" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="EarthquakeEstimator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WorkSpace" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WorkSpace/ysa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.DepremTahminSistemi" />
+      <item itemvalue="Python.SistemTesti" />
+      <item itemvalue="Python.confisuon_matris" />
+      <item itemvalue="Python.decision_tree" />
+      <item itemvalue="Python.kmeans" />
+      <item itemvalue="Python.ysa" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.SistemTesti" />
+        <item itemvalue="Python.ysa" />
+        <item itemvalue="Python.confisuon_matris" />
+        <item itemvalue="Python.kmeans" />
+        <item itemvalue="Python.decision_tree" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce17a917-8931-485c-a181-593e58548d0a" name="Default Changelist" comment="" />
+      <created>1576590914848</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576590914848</updated>
+    </task>
+    <task id="LOCAL-00001" summary="second commit">
+      <created>1587901396480</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587901396480</updated>
+    </task>
+    <task id="LOCAL-00002" summary="third commit">
+      <created>1588014600714</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588014600715</updated>
+    </task>
+    <task id="LOCAL-00003" summary="third commit">
+      <created>1588014609413</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588014609413</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fourth commit">
+      <created>1588022248659</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1588022248659</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fifth commit">
+      <created>1588335755814</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1588335755814</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="second commit" />
+    <MESSAGE value="third commit" />
+    <MESSAGE value="fourth commit" />
+    <MESSAGE value="fifth commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="fifth commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="415" y="64" key="#SistemTesti" timestamp="1585653879741">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="415" y="64" key="#SistemTesti/0.0.1440.900@0.0.1440.900" timestamp="1585653879741" />
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587835407035">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1587835407035" />
+    <state x="451" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587835724744">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="451" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1587835724744" />
+    <state x="507" y="162" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1585653867392">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="507" y="162" key="#com.intellij.ide.macro.MacrosDialog/0.0.1440.900@0.0.1440.900" timestamp="1585653867392" />
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587840476117">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1587840476117" />
+    <state x="338" y="52" key="CommitChangelistDialog2" timestamp="1588510454538">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="338" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1588510454538" />
+    <state width="1419" height="215" key="GridCell.Tab.0.bottom" timestamp="1588505772953">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="1419" height="524" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588504192660" />
+    <state width="1419" height="215" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1588505772953" />
+    <state width="1419" height="215" key="GridCell.Tab.0.center" timestamp="1588505772952">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="1419" height="524" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588504192659" />
+    <state width="1419" height="215" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1588505772952" />
+    <state width="1419" height="215" key="GridCell.Tab.0.left" timestamp="1588505772952">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="1419" height="524" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588504192658" />
+    <state width="1419" height="215" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1588505772952" />
+    <state width="1419" height="215" key="GridCell.Tab.0.right" timestamp="1588505772953">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="1419" height="524" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588504192659" />
+    <state width="1419" height="215" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1588505772953" />
+    <state width="1419" height="303" key="GridCell.Tab.1.bottom" timestamp="1588332473423">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588332473423" />
+    <state width="1419" height="303" key="GridCell.Tab.1.center" timestamp="1588332473422">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1588332473422" />
+    <state width="1419" height="303" key="GridCell.Tab.1.left" timestamp="1588332473422">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1588332473422" />
+    <state width="1419" height="303" key="GridCell.Tab.1.right" timestamp="1588332473423">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1588332473423" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1585653888615">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1585653888615" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1588335758510">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1588335758510" />
+    <state x="515" y="246" key="com.intellij.ide.util.TipDialog" timestamp="1588510457159">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="515" y="246" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1588510457159" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/WorkSpace/veriOnisleme.py</url>
+          <line>119</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
