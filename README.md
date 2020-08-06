@@ -8,6 +8,5 @@ Data Mining Course Project
 ![Screenshot](https://raw.githubusercontent.com/rslozl/EarthQuake-Estimator-App/master/k-means.png)
 ## CONFUSION MATRIX
 ![Screenshot](https://raw.githubusercontent.com/rslozl/EarthQuake-Estimator-App/master/confusion.png)
-## DEEP LEARNING
-![Screenshot]()
+
 
